@@ -1,6 +1,6 @@
 # Lebenslauf
 
-![Bild](C:\Users\denni\Desktop\Aufgaben\OS\testgit.jpg)
+![Bild](http://www.golf-index.eu/images/golfclubsbilder/golfpros/valentin-mustermann-pros-10944.jpg)
 
 ###Persönliche Daten
 
