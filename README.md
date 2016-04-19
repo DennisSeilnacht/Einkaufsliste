@@ -1,6 +1,6 @@
 # Lebenslauf
 
-![Bild](Desktop/testgit.jpg)
+![Bild](C:\Users\denni\Desktop\Aufgaben\OS\testgit.jpg)
 
 ###Persönliche Daten
 
